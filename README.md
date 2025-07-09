@@ -21,7 +21,7 @@ This project visualises conflict events and fatalities in Pakistan between 2010 
 - Canva/Preview for minor image formatting
 
 ## 📷 Final Dashboard
-![Conflict Dashboard] 
+![Conflict Dashboard](Hafsa_Conflict_Dashboard.jpeg)
 > Date: 8th July 2025  
 > Source: Armed Conflict Location & Event Data (ACLED)
 
