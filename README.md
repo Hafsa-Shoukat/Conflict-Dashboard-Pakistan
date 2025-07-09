@@ -17,7 +17,7 @@ This project visualises conflict events and fatalities in Pakistan between 2010 
 ## 🛠 Tools Used
 - Tableau Desktop Public Edition
 - Mapbox (custom light map)
-- ACLED dataset (2024 version)
+- ACLED dataset (2010-2025)
 - Canva/Preview for minor image formatting
 
 ## 📷 Final Dashboard
